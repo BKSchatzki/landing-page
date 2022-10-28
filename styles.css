@@ -38,11 +38,9 @@ body>div {
 /*HERO*/
 .hero {
     background-color: #1f2937;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     padding-top: 4em;
     padding-bottom: 4em;
+    display: flex;
     flex-flow: row wrap;
     justify-content: space-between;
     align-items: center;
@@ -151,14 +149,23 @@ body>div {
 
 .quote {
     background-color: #e5e7eb;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     padding-top: 4em;
     padding-bottom: 4em;
     display: flex;
     flex-flow: row wrap;
     justify-content: space-between;
     align-items: center;
-    gap: 2em;
+}
+
+.quote blockquote {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: 100;
+}
+
+.quote figcaption {
+    color: #1f2937;
+    font-size: 18px;
+    font-weight: 900;
+    text-align: right;
 }
