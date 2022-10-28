@@ -43,7 +43,6 @@ body>div {
     align-items: center;
     padding-top: 4em;
     padding-bottom: 4em;
-    display: flex;
     flex-flow: row wrap;
     justify-content: space-between;
     align-items: center;
@@ -148,4 +147,18 @@ body>div {
     text-align: center;
     flex: 1;
     gap: 1em;
+}
+
+.quote {
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 4em;
+    padding-bottom: 4em;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2em;
 }
