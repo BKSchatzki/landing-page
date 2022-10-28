@@ -12,12 +12,14 @@
 .header-logo h3 {
     color: #f9faf8;
     font-size: 24px;
+    margin: 1em;
 }
 
 .header-links {
     display: flex;
     flex-direction: row;
     gap: 1em;
+    margin: 1em;
 }
 
 .header-links a {
