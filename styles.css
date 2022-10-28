@@ -28,6 +28,16 @@ a {
     text-decoration: none;
 }
 
+.hero {
+    display: flex;
+}
+
+.hero-text {
+    display: flex;
+    flex-flow: column;
+    flex: 0 1 auto;
+}
+
 .header,
 .hero,
 .footer {
