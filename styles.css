@@ -79,3 +79,11 @@ body>div {
     object-fit: cover;
     object-position: 25% 15%;
 }
+
+.hero figure figcaption,
+.hero figure figcaption a {
+    color: #e5e7eb;
+    font-size: 14px;
+    text-align: right;
+    text-decoration: none;
+}
