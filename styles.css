@@ -8,9 +8,12 @@
     background-color: #1F2937;
 }
 
-.gallery,
-.banner {
+.gallery {
     background-color: #f9faf8;
+}
+
+.banner {
+    background-color: #3882f6;
 }
 
 .quote {
@@ -37,4 +40,9 @@ p {
 
 blockquote {
     color: #1f2937;
+}
+
+button {
+    background-color: #3882f6;
+    color: #f9faf8;
 }
