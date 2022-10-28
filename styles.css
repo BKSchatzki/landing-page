@@ -54,6 +54,7 @@ body>div {
     justify-content: center;
     align-items: flex-start;
     gap: 1em;
+    flex: 1;
 }
 
 .hero-text h1 {
