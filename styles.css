@@ -10,6 +10,7 @@ body {
 .header {
     display: flex;
     justify-content: space-between;
+    padding: 1em;
 }
 
 header {
@@ -31,12 +32,17 @@ a {
 
 .hero {
     display: flex;
+    padding: 0 8em;
+    justify-content: space-around;
+    align-items: center;
+    gap: 4em;
+    flex: 1;
 }
 
 .hero-text {
     display: flex;
     flex-flow: column;
-    flex: 0 1 auto;
+    align-items: flex-start;
 }
 
 .header,
