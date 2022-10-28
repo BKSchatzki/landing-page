@@ -131,13 +131,16 @@ body>div {
     text-decoration: none;
 }
 
-.noodles p,
-.pot-stickers p,
+.noodles,
+.pot-stickers,
 .orange-chicken,
 .egg-roll {
     display: flex;
     flex-flow: column wrap;
     justify-content: space-between;
     align-items: center;
+    max-width: 360px;
+    text-align: center;
     flex: 1;
+    gap: 0.5em;
 }
