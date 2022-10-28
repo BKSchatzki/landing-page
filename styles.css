@@ -88,6 +88,12 @@ body>div {
     text-decoration: none;
 }
 
+.info-heading h3 {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: 900;
+}
+
 .info-pictures figure img {
     width: 240px;
     height: 240px;
