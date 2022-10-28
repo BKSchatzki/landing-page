@@ -88,6 +88,16 @@ body>div {
     text-decoration: none;
 }
 
+.info {
+    padding-top: 2em;
+    padding-bottom: 2em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2em;
+}
+
 .info-heading h3 {
     color: #1f2937;
     font-size: 36px;
