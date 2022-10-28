@@ -87,3 +87,9 @@ body>div {
     text-align: right;
     text-decoration: none;
 }
+
+.info-pictures figure img {
+    width: 240px;
+    height: 240px;
+    object-fit: cover;
+}
