@@ -2,6 +2,11 @@
     font-family: Roboto, sans-serif;
 }
 
+body {
+    display: flex;
+    flex-flow: column;
+}
+
 .header,
 .hero,
 .footer {
