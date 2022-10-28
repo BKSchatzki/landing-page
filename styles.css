@@ -73,7 +73,7 @@ body>div {
     padding: 0.5em 1.5em;
 }
 
-img {
+.hero figure img {
     width: 480px;
     height: 270px;
     object-fit: cover;
