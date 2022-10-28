@@ -29,3 +29,17 @@
     font-size: 18px;
     text-decoration: none;
 }
+
+.hero {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+img {
+    width: 480px;
+    height: 270px;
+    object-fit: cover;
+    object-position: 25% 15%;
+}
