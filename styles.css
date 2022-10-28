@@ -47,6 +47,14 @@ body>div {
     gap: 2em;
 }
 
+.hero-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 1em;
+}
+
 .hero-text h1 {
     color: #f9faf8;
     font-size: 48px;
