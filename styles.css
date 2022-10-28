@@ -152,7 +152,7 @@ body>div {
     padding-top: 4em;
     padding-bottom: 4em;
     display: flex;
-    flex-flow: row wrap;
+    flex-flow: column wrap;
     justify-content: space-between;
     align-items: center;
 }
@@ -160,7 +160,10 @@ body>div {
 .quote blockquote {
     color: #1f2937;
     font-size: 36px;
+    font-style: italic;
     font-weight: 100;
+    max-width: 1000px;
+    text-align: left;
 }
 
 .quote figcaption {
