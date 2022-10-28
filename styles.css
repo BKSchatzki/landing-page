@@ -104,6 +104,14 @@ body>div {
     font-weight: 900;
 }
 
+.info-pictures {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 2em;
+}
+
 .info-pictures figure img {
     width: 240px;
     height: 240px;
