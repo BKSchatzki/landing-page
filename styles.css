@@ -52,6 +52,13 @@ body>div {
     font-size: 18px;
 }
 
+.hero-text button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    font-weight: 700;
+    padding: 0.5em 1.5em;
+}
+
 img {
     width: 480px;
     height: 270px;
