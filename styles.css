@@ -8,6 +8,7 @@ body>div {
     padding: 0 2em;
 }
 
+/*HEADER*/
 .header {
     background-color: #1f2937;
     display: flex;
@@ -34,6 +35,7 @@ body>div {
     text-decoration: none;
 }
 
+/*HERO*/
 .hero {
     background-color: #1f2937;
     display: flex;
@@ -92,9 +94,10 @@ body>div {
     text-decoration: none;
 }
 
+/*INFO*/
 .info {
     padding-top: 2em;
-    padding-bottom: 2em;
+    padding-bottom: 4em;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
