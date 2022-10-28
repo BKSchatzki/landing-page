@@ -122,3 +122,9 @@ body>div {
     object-fit: cover;
     flex: auto;
 }
+.info-pictures figure figcaption,
+.info-pictures figure figcaption a {
+    color: #1f2937;
+    font-size: 14px;
+    text-align: center;
+    text-decoration: none;
