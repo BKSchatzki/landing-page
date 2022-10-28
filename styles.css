@@ -37,6 +37,17 @@
     align-items: center;
 }
 
+.hero-text h1 {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.hero-text p {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
 img {
     width: 480px;
     height: 270px;
