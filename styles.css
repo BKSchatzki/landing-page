@@ -16,3 +16,24 @@
 .quote {
     background-color: #e5e7eb;
 }
+
+header,
+h1,
+h4 {
+    color: #f9faf8;
+}
+
+h3,
+figcaption,
+cite {
+    color: #1f2937
+}
+
+a,
+p {
+    color: #e5e7eb;
+}
+
+blockquote {
+    color: #1f2937;
+}
