@@ -224,5 +224,12 @@ body>div {
 }
 
 .footer p {
+    color: #e5e7eb;
+    font-size: 18px;
+    margin: 2em 0;
+}
 
+.footer a {
+    color: #e5e7eb;
+    text-decoration: none;
 }
