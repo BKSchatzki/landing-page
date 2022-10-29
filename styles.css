@@ -191,5 +191,25 @@ body>div {
     border-radius: 16px;
     display: flex;
     justify-content: space-between;
+    align-items: center;
+}
 
+.banner-text h4 {
+    color: #f9faf8;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.banner-text p {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.banner button {
+    background-color: #3882f6;
+    border: 2px solid #f9faf8;
+    border-radius: 8px;
+    color: #f9faf8;
+    font-weight: 700;
+    padding: 0.5em 1.5em;
 }
