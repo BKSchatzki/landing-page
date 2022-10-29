@@ -147,6 +147,7 @@ body>div {
     gap: 1em;
 }
 
+/*QUOTE*/
 .quote {
     background-color: #e5e7eb;
     padding-top: 4em;
@@ -172,3 +173,14 @@ body>div {
     font-weight: 900;
     text-align: right;
 }
+
+/*BANNER*/
+.banner-space {
+    padding-top: 4em;
+    padding-bottom: 4em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: auto;
+}
+
