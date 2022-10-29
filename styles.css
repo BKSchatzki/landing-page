@@ -184,3 +184,12 @@ body>div {
     flex: auto;
 }
 
+.banner {
+    background-color: #3882f6;
+    width: 1000px;
+    padding: 2em 4em;
+    border-radius: 16px;
+    display: flex;
+    justify-content: space-between;
+
+}
